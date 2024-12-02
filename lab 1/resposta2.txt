@@ -4,7 +4,10 @@ explique como elas ajudam no processo de criação de aplicações web.
 - SpringBoot: 
             O SpringBoot é uma ferramenta de desenvolvimento para a linguagem Java que
             facilita a criação de APIs, por meio que suas anotações permite que cada uma das 
-            classes que possui aquelas anotações tenha papéis diferente, por exemplo, `@Repository` 
-            que faz o link com o Banco de Dados e manipula diretamente os dados.;
-- Node.js
-- React
+            classes que possui aquelas anotações tenha papéis diferentes, por exemplo, `@Repository` 
+            que faz o link com o Banco de Dados e manipula diretamente os dados;
+- Node.js:
+            O Node.js é uma framework backend utilizada para aumentar a eficiência de aplicações em tempo real
+            Em união ao Express.js faz a conexão entre Frontend e Backend.;
+- React:
+            O React é uma biblioteca JavaScript utilizada para criar e renderizar componentes Frontend para interação direta com o usuário. 
