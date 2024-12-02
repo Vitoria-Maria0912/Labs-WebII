@@ -1,0 +1,5 @@
+Versionamento é o processo de gerenciar mudanças realizadas por vários desenvolvedores em um código-fonte por meio de uma plataforma em comum(GitHub, GitLab, Bitbucket),
+esse controle de versões garante que um desenvolvedor não sobreescreva o código de outro. Ele é essencial no desenvolvimento colaborativo de software 
+pois garante a integridade do código, dado que haverá um histórico de todas as modificações realizadas facilitando que revisores identifiquem onde 
+houve uma modificação que causou algum bug, ademais a colaboração é torna-se mais eficiente, dado que cada desenvolvedor pode estar desenvolvendo 
+uma funcionalidade diferente no mesmo código-fonte.
