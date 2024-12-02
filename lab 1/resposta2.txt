@@ -1,0 +1,10 @@
+Cite três ferramentas ou tecnologias amplamente usadas no desenvolvimento web e 
+explique como elas ajudam no processo de criação de aplicações web.
+
+- SpringBoot: 
+            O SpringBoot é uma ferramenta de desenvolvimento para a linguagem Java que
+            facilita a criação de APIs, por meio que suas anotações permite que cada uma das 
+            classes que possui aquelas anotações tenha papéis diferente, por exemplo, `@Repository` 
+            que faz o link com o Banco de Dados e manipula diretamente os dados.;
+- Node.js
+- React
