@@ -1,0 +1,11 @@
+- SpringBoot: 
+            O SpringBoot é uma ferramenta de desenvolvimento para a linguagem Java que facilita a criação de APIs, por meio que suas anotações
+            permite que cada uma das classes que possui aquelas anotações tenha papéis diferentes, por exemplo, `@Repository` 
+            que faz o link com o Banco de Dados e manipula diretamente os dados, @Controller que recebe as requisições e faz o tratamento destas;
+- Node.js:
+            O Node.js é um ambiente de execução de JavaScript no servidor backend utilizado para aumentar a eficiência de aplicações em tempo real.
+            Em união à framework Express.js faz a conexão entre Frontend e Backend, fazendo a manipulação das requisições HTTP e do banco de dados;
+- React:
+            O React é uma biblioteca JavaScript utilizada para criar e renderizar componentes Frontend para interação direta com o usuário. 
+            Ademais, ela é muito prática por mostrar os erros em tempo de execução, ou seja, sempre que o desenvolvedor inserir um erro a aplicação 
+            irá mostrá-lo em tempo real;

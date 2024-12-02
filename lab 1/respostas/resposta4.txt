@@ -1,5 +1,5 @@
-JavaScript é uma linguagem multiparadimas, logo ela facilita a implementação em diferentes plataformas. Assim como o HTML é a estrutura e o CSS a estilização,
+JavaScript é uma linguagem multiparadimas, logo ela facilita a implementação em diferentes plataformas. Assim como o HTML é a estrutura e o CSS a estilização, 
 o JavaScript é o que implementa a lógica que será executada pelas aplicações Web, essa tríade forma a base para o desenvolvimento Web, pois esta linguagem permite 
 a interação do usuário com a aplicação, é ela quem estará estabelecendo a conexão entre Frontend e Backend, fazendo a manipulação dos dados, lógica de negócios,
-seja diretamente ou por meio de uma framework, como React. Ela é essencial pois sem ela as páginas Web são estáticas e não podem realizar nenhuma ação que necessite de uma 
-lógica por trás, como por exemplo mudar o tema da página.
+seja diretamente ou por meio de uma framework, como React. Ela é essencial pois sem ela as páginas Web são estáticas e não podem realizar nenhuma ação que necessite 
+de uma lógica por trás, como por exemplo mudar o tema da página.
