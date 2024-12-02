@@ -1,0 +1,10 @@
+- Definiríamos o escopo do projeto;
+- Faríamos a definição de que tecnologias e ferramentas utilizaríamos;
+- Faríamos o modelo de dados;
+- Decidiríamos qual arquitetura usar (Controllers, Services, Repositories, ...);
+- Definiríamos quais as funcionalidades (User Stories) seriam necessárias;
+- Dividiríamos as `tasks` para cada membro;
+- Definiríamos os prazos para cada `task`;
+- Criaríamos o repositório na plataforma de versionamento escolhida (GitHub, no caso);
+- Criaríamos três branchs (master, dev e feat);
+- Por fim, iniciaríamos a implementação.
