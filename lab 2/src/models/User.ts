@@ -7,7 +7,7 @@ interface UserAttributes {
     name: string;
     email: string;password: string;
 }
-export class User extends Model<UserAttributes, UserCreationAttributes> implements
+export class User extends Model<UserAttributes> implements
 UserAttributes {
     public id!: number;
     public name!: string;
